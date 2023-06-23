@@ -1,0 +1,27 @@
+body {
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+  	font-size: 20px;
+  	line-height: 1.4;
+  	color: black;
+ 	 min-width:320px;
+ 	 overflow-x:hidden;
+ 	 height: auto;
+ 	 padding: 20px;
+ 	 background-color: antiquewhite;
+}
+.EER1{
+    background-color: antiquewhite;
+    display: inline-block;
+}
+button{
+    width: 250px;
+    height: 50px;
+    font-size: 26px;
+}
+fieldset{
+    width: 200px;
+}
+input{
+    font-size: 18px;
+}
